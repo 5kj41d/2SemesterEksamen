@@ -1,2 +1,2 @@
 # 2SemesterEksamen
- værksted
+ Værksted. 2 semester eksamen - Datamatiker. 
